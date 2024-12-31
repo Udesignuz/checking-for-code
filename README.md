@@ -7,3 +7,5 @@ checking for code vulnerabilities
 4. Проверка утечек данных
 5. Генерация отчета
 6. Автоисправление уязвимостей
+
+Author ABS_ON (UDESIGNUZ)
